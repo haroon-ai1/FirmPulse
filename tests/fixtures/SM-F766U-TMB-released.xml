@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<versioninfo>
+	<url>https://fota-cloud-dn.ospserver.net/firmware/</url>
+	<firmware>
+		<model>SM-F766U</model>
+		<cc>TMB</cc>
+		<version>
+			<latest o="16">F766USQSCBZH3/F766UOYNCBZH3/F766USQSCBZH3</latest>
+			<upgrade>
+				<value rcount='1' fwsize='443966998'>F766USQSBBZG3/F766UOYNBBZG3/F766USQSBBZG3</value>
+				<value rcount='8' fwsize='429043064'>F766USQS5AYJ3/F766UOYN5AYJ3/F766USQS5AYJ3</value>
+				<value rcount='7' fwsize='472805647'>F766USQS6AYK9/F766UOYN6AYK9/F766USQS6AYK9</value>
+				<value rcount='1' fwsize='837718373'>F766USQU9BZDP/F766UOYN9BZDP/F766USQU9BZDP</value>
+				<value rcount='10' fwsize='815841917'>F766USQS2AYGD/F766UOYN2AYGD/F766USQS2AYGD</value>
+				<value rcount='6' fwsize='432992819'>F766USQS6AYKF/F766UOYN6AYKF/F766USQS6AYKF</value>
+				<value rcount='2' fwsize='4230929390'>F766USQS9AZD1/F766UOYN9AZD1/F766USQS9AZD1</value>
+				<value rcount='10' fwsize='812707007'>F766USQS3AYH3/F766UOYN3AYH3/F766USQS3AYH3</value>
+				<value rcount='5' fwsize='436811658'>F766USQS7AZA1/F766UOYN7AZA1/F766USQS7AZA1</value>
+				<value rcount='4' fwsize='452405165'>F766USQS8AZB6/F766UOYN8AZB6/F766USQS8AZB6</value>
+				<value rcount='10' fwsize='838835358'>F766USQU1AYFP/F766UOYN1AYFP/F766USQU1AYFP</value>
+				<value rcount='9' fwsize='443886695'>F766USQU4AYI1/F766UOYN4AYI1/F766USQU4AYI1</value>
+				<value rcount='3' fwsize='429213866'>F766USQS8AZC3/F766UOYN8AZC3/F766USQS8AZC3</value>
+				<value rcount='1' fwsize='835424780'>F766USQSABZE3/F766UOYNABZE3/F766USQSABZE3</value>
+				<value rcount='1' fwsize='469462412'>F766USQUABZF3/F766UOYNABZF3/F766USQUABZF3</value>
+			</upgrade>
+		</version>
+	</firmware>
+	<polling>
+		<period>7</period>
+		<time>23</time>
+		<range>06</range>
+	</polling>
+	<ActiveDeviceInfo>
+		<CycleOfDeviceHeartbeat>14</CycleOfDeviceHeartbeat>
+		<ServiceURL>https://ifota-apis.samsungdm.com/device/fumo/deviceheartbeat</ServiceURL>
+	</ActiveDeviceInfo>
+	<WiFiConnectedPollingInfo>
+		<Cycle></Cycle>
+		<Activated>FALSE</Activated>
+	</WiFiConnectedPollingInfo>
+</versioninfo>

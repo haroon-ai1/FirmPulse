@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<versioninfo>
+	<url>https://fota-cloud-dn.ospserver.net/firmware/</url>
+	<firmware>
+		<model>SM-S926N</model>
+		<cc>KOO</cc>
+		<version>
+			<latest o="16">S926NKSSHDZH3/S926NOKRHDZH3/S926NKSSHDZH3</latest>
+			<upgrade>
+				<value rcount='6' fwsize='5010546630'>S926NKSS5AYB1/S926NOKR5AYB1/S926NKSS5AYB1</value>
+				<value rcount='1' fwsize='346189341'>S926NKSSFDZE1/S926NOKRFDZE1/S926NKSSFDZE1</value>
+				<value rcount='7' fwsize='302793595'>S926NKSS5AXL1/S926NOKR5AXL1/S926NKSS5AXL1</value>
+				<value rcount='3' fwsize='407384222'>S926NKSSACYJ3/S926NOKRACYJ3/S926NKSSACYJ1</value>
+				<value rcount='3' fwsize='359486099'>S926NKSSBCYL1/S926NOKRBCYL1/S926NKSSBCYL1</value>
+				<value rcount='3' fwsize='403958108'>S926NKSU9CYI5/S926NOKR9CYI5/S926NKSU9CYI3</value>
+				<value rcount='7' fwsize='2665309122'>S926NKSU1AXCA/S926NOKR1AXCA/S926NKSU1AXCC</value>
+				<value rcount='8' fwsize='370016671'>S926NKSU1AXAB/S926NOKR1AXAB/S926NKSU1AWM7</value>
+				<value rcount='8' fwsize='349216577'>S926NKSU1AXB4/S926NOKR1AXB4/S926NKSU1AWM7</value>
+				<value rcount='7' fwsize='467790510'>S926NKSU3AXH7/S926NOKR3AXH7/S926NKSU3AXH7</value>
+				<value rcount='7' fwsize='2640330387'>S926NKSS3AXGJ/S926NOKR3AXGJ/S926NKSS3AXFD</value>
+				<value rcount='1' fwsize='350524664'>S926NKSUEDZDR/S926NOKREDZDR/S926NKSUEDZDR</value>
+				<value rcount='5' fwsize='365724052'>S926NKSU5BYD9/S926NOKR5BYD9/S926NKSU5BYD9</value>
+				<value rcount='7' fwsize='2665289732'>S926NKSU1AXCA/S926NOKR1AXCA/S926NKSU1AXC5</value>
+				<value rcount='6' fwsize='5012835720'>S926NKSS5AXKA/S926NOKR5AXKA/S926NKSU5AXKC</value>
+				<value rcount='5' fwsize='335153998'>S926NKSS6BYDF/S926NOKR6BYDF/S926NKSS6BYDF</value>
+				<value rcount='7' fwsize='464542748'>S926NKSS4AXJ1/S926NOKR4AXJ1/S926NKSS4AXJ1</value>
+				<value rcount='7' fwsize='2663334989'>S926NKSU2AXE4/S926NOKR2AXE4/S926NKSU2AXE4</value>
+				<value rcount='3' fwsize='304843895'>S926NKSSDCZC1/S926NOKRDCZC1/S926NKSSDCZB1</value>
+				<value rcount='7' fwsize='313982522'>S926NKSS5AXKA/S926NOKR5AXKA/S926NKSS5AXKA</value>
+				<value rcount='7' fwsize='2704789816'>S926NKSU1AXBA/S926NOKR1AXBA/S926NKSU1AWM7</value>
+				<value rcount='8' fwsize='546229521'>S926NKSU1AXBD/S926NOKR1AXBD/S926NKSU1AWM7</value>
+				<value rcount='4' fwsize='301677738'>S926NKSS9CYI9/S926NOKR9CYI9/S926NKSU9CYI3</value>
+				<value rcount='4' fwsize='3387331372'>S926NKSS9BYG8/S926NOKR9BYG8/S926NKSS9BYG8</value>
+				<value rcount='5' fwsize='328459073'>S926NKSS7BYE9/S926NOKR7BYE9/S926NKSS7BYE9</value>
+				<value rcount='8' fwsize='279402768'>S926NKSU5AXJD/S926NOKR5AXJD/S926NKSU5AXJD</value>
+				<value rcount='3' fwsize='340678468'>S926NKSSDCZB4/S926NOKRDCZB4/S926NKSSDCZB1</value>
+				<value rcount='7' fwsize='2661771336'>S926NKSU3AXFG/S926NOKR3AXFG/S926NKSS3AXFD</value>
+				<value rcount='7' fwsize='2664658751'>S926NKSS2AXE1/S926NOKR2AXE1/S926NKSS2AXE1</value>
+				<value rcount='7' fwsize='284680899'>S926NKSS5AYA1/S926NOKR5AYA1/S926NKSS5AYA1</value>
+				<value rcount='1' fwsize='346110085'>S926NKSSFDZF3/S926NOKRFDZF3/S926NKSSFDZE1</value>
+				<value rcount='3' fwsize='351162197'>S926NKSSCCZA1/S926NOKRCCZA1/S926NKSSCCZA1</value>
+				<value rcount='5' fwsize='315153975'>S926NKSS8BYF1/S926NOKR8BYF1/S926NKSS8BYF1</value>
+				<value rcount='7' fwsize='2705009755'>S926NKSU1AXB5/S926NOKR1AXB5/S926NKSU1AWM7</value>
+				<value rcount='3' fwsize='407260655'>S926NKSSBCYK2/S926NOKRBCYK2/S926NKSSBCYK1</value>
+				<value rcount='5' fwsize='364011783'>S926NKSU5BYCG/S926NOKR5BYCG/S926NKSU5BYCG</value>
+				<value rcount='2' fwsize='4160610966'>S926NKSSECZCH/S926NOKRECZCH/S926NKSSECZCH</value>
+				<value rcount='7' fwsize='2707553197'>S926NKSU1AWM9/S926NOKR1AWM9/S926NKSU1AWM7</value>
+				<value rcount='1' fwsize='314223118'>S926NKSSGDZG1/S926NOKRGDZG1/S926NKSSGDZG1</value>
+				<value rcount='7' fwsize='319809797'>S926NKSU5AXK4/S926NOKR5AXK4/S926NKSU5AXK4</value>
+			</upgrade>
+		</version>
+	</firmware>
+	<polling>
+		<period>1</period>
+		<time>01</time>
+		<range>04</range>
+	</polling>
+	<ActiveDeviceInfo>
+		<CycleOfDeviceHeartbeat>14</CycleOfDeviceHeartbeat>
+		<ServiceURL>https://ifota-apis.samsungdm.com/device/fumo/deviceheartbeat</ServiceURL>
+	</ActiveDeviceInfo>
+	<WiFiConnectedPollingInfo>
+		<Cycle></Cycle>
+		<Activated>FALSE</Activated>
+	</WiFiConnectedPollingInfo>
+</versioninfo>

@@ -1,0 +1,30 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/pulse_launch</item>
+        <item name="android:colorAccent">#1877FF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="PulseDialogMotion">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="PulseDialogDark" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#7DB6FF</item>
+        <item name="android:colorBackground">#11233B</item>
+        <item name="android:colorBackgroundFloating">#11233B</item>
+        <item name="android:windowBackground">#11233B</item>
+        <item name="android:textColorPrimary">#F0F5FF</item>
+        <item name="android:textColorSecondary">#A0B4D2</item>
+    </style>
+    <style name="PulseDialogLight" parent="android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorAccent">#145ABA</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="android:colorBackgroundFloating">#FFFFFF</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:textColorPrimary">#112B48</item>
+        <item name="android:textColorSecondary">#516982</item>
+    </style>
+</resources>
