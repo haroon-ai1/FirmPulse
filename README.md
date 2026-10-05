@@ -4,6 +4,12 @@ Samsung test and released firmware, in one place. Built by **Haroon** for Androi
 
 [Download APK](https://github.com/haroon-ai1/FirmPulse/releases) · [Star the project](https://github.com/haroon-ai1/FirmPulse) · [Contribute](CONTRIBUTING.md)
 
+## App UI preview
+
+FirmPulse checking firmware on a Samsung Galaxy A-series phone.
+
+<img src="docs/screenshots/app-ui-preview.png" alt="FirmPulse app UI preview" width="320">
+
 ## What you can do
 
 - Check a Samsung model and region/carrier code (CSC), with editable fields and dropdown suggestions.
