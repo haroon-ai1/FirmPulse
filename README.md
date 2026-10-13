@@ -8,7 +8,7 @@ Samsung test and released firmware, in one place. Built by **Haroon** for Androi
 
 FirmPulse checking firmware on a Samsung Galaxy A-series phone.
 
-<img src="docs/screenshots/app-ui-preview.png" alt="FirmPulse app UI preview" width="320">
+<img src="docs/app-ui-preview.png" alt="FirmPulse app UI preview" width="320">
 
 ## What you can do
 
